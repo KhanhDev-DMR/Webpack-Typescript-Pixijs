@@ -1,9 +1,33 @@
 {
   "frames": {
-    "sound_off": {
+    "replay": {
       "frame": {
         "x": 0,
         "y": 0,
+        "w": 300,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 27,
+        "w": 300,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 360
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "sound_off": {
+      "frame": {
+        "x": 0,
+        "y": 306,
         "w": 58,
         "h": 56
       },
@@ -26,8 +50,8 @@
     },
     "sound_on": {
       "frame": {
-        "x": 58,
-        "y": 0,
+        "x": 0,
+        "y": 362,
         "w": 56,
         "h": 56
       },
@@ -55,8 +79,8 @@
     "image": "ui_atlas.png",
     "format": "RGBA8888",
     "size": {
-      "w": 128,
-      "h": 64
+      "w": 512,
+      "h": 512
     },
     "scale": 1
   }
