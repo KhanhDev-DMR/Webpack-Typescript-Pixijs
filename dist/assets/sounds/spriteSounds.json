@@ -1,37 +1,44 @@
 {
-  "name": "game-sounds",
-  "sprites": {
-    "bird": {
+  "sprites": [
+    {
+      "alias": "bird",
       "start": 0,
       "end": 2.376
     },
-    "boing": {
+    {
+      "alias": "boing",
       "start": 2.376,
       "end": 2.950694
     },
-    "buzzer": {
+    {
+      "alias": "buzzer",
       "start": 2.950694,
       "end": 6.082694
     },
-    "car": {
+    {
+      "alias": "car",
       "start": 6.082694,
       "end": 6.514694
     },
-    "chime": {
+    {
+      "alias": "chime",
       "start": 6.514694,
       "end": 9.574694000000001
     },
-    "success": {
+    {
+      "alias": "success",
       "start": 9.574694000000001,
       "end": 12.634694000000001
     },
-    "sword": {
+    {
+      "alias": "sword",
       "start": 12.634694000000001,
       "end": 13.858694000000002
     },
-    "whistle": {
+    {
+      "alias": "whistle",
       "start": 13.858694000000002,
       "end": 14.686694000000001
     }
-  }
+  ]
 }
